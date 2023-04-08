@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=vue&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=goeasyonng&theme=vue&show_icons=true)
 <!-- 링크참고 : https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
