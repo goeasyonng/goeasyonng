@@ -1,19 +1,10 @@
-### Hi there 👋
 
-<!--
-**goeasyonng/goeasyonng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  
+![waving](https://capsule-render.vercel.app/api?type=waving&height=300&text=go%20easy%20on%20NG!&fontAlign=50&fontAlignY=40&color=gradient&desc=송가연)
 
-Here are some ideas to get you started:
+![Song's GitHub stats](https://github-readme-stats.vercel.app/api?username=goeasyonng&count_private=true&custom_title=Song's&nbsp;github&nbsp;&bg_color=30,92a8d1,f7cac9&title_color=fff&text_color=fff)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goeasyonng&layout=compact&custom_title=My&nbsp;Language&nbsp;&bg_color=30,f7cac9,92a8d1&title_color=fff&text_color=fff&height=30)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=goeasyonng&theme=vue&show_icons=true)
-<!-- 링크참고 : https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
+ </div>
+  
