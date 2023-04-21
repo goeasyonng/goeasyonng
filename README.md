@@ -1,7 +1,7 @@
 
 <div align="center">
   
-![waving](https://capsule-render.vercel.app/api?type=waving&height=300&text=go%20easy%20on%20NG!&fontAlign=50&fontAlignY=40&color=gradient&desc=송가연)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=300&text=HI10%THERE&fontAlign=50&fontAlignY=40&color=B8DAF2&desc=goeasyonng)
 
   
  <div><b>✔ Tools</b></div><br/>
@@ -40,7 +40,7 @@
   
 
   
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=B8DAF2&height=200&section=footer)
   
  </div>
   
