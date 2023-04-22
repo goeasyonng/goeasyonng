@@ -1,7 +1,7 @@
 
 <div align="center">
   
-![waving](https://capsule-render.vercel.app/api?type=waving&height=300&text=HI_THERE&fontAlign=50&fontAlignY=40&color=B8DAF2&desc=I'm_goeasyonng)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=270&text=HELLO&fontAlign=50&fontAlignY=33&color=B8DAF2&desc=I'm_goeasyonng)
 
 
 
