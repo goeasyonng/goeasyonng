@@ -1,24 +1,24 @@
 
 <div align="center">
   
-![waving](https://capsule-render.vercel.app/api?type=waving&height=270&text=HELLO&fontAlign=50&fontAlignY=33&color=B8DAF2&desc=I'm_goeasyonng)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=270&text=HELLO&fontAlign=50&fontAlignY=32&color=B8DAF2&desc=I'm_goeasyonng)
 
 
 
 <b>🫧 USING TOOLS 🫧</b>
 <br/>
 <br/>
-<img src="https://img.shields.io/badge/django-092E20?style=flat&logo=DJANGO&logoColor=white"/>
-<img src="https://img.shields.io/badge/flask-000000?style=flat&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/django-B9CEAC?style=flat&logo=DJANGO&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-F3A347?style=flat&logo=Amazon%20AWS&logoColor=white"/>
+<img src="https://img.shields.io/badge/Visual%20Studio-9C8EED?style=flat&logo=Visual%20Studio&logoColor=white"/> 
 <br/>
-<img src="https://img.shields.io/badge/MacOs-000000?style=flat&logo=MacOs&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=Windows&logoColor=white"/> 
+<img src="https://img.shields.io/badge/react-8EB6DE?style=flat&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/Windows-8EB6DE?style=flat&logo=Windows&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vscode-8EB6DE?style=flat&logo=Visual%20Studio%20code&logoColor=white"/> 
 <br/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=Amazon%20AWS&logoColor=white"/>
-<img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vscode-007ACC?style=flat&logo=Visual%20Studio%20code&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=Visual%20Studio&logoColor=white"/> 
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/flask-000000?style=flat&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/MacOs-000000?style=flat&logo=MacOs&logoColor=white"/> 
 
 <br/>
 <b>🫧 Tools 🫧</b>
