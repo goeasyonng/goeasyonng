@@ -3,6 +3,18 @@
   
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=270&text=HELLO&fontAlign=50&fontAlignY=32&color=B8DAF2&desc=I'm&nbsp;goeasyonng)
 
+<div>'go easy on NG' this is my Anagram<div>
+  <br/>
+<div>Go easy on: be generous with.<div>
+  <br/>
+<div>'NG': After the test, the filming or recording in the process is not good, so the filming is done again. an abbreviation for no good.<div>
+  <br/>
+<div>
+This phrase is my anagram and creed.
+As I entered the path of development, I experienced many errors and failures, but I was generous to bad things like my creed, sought various ways, and experienced success. With a consistent mind, I will not dwell on failure, but rather become a growing and successful developer who turns it into a good opportunity.<div>
+  
+<br/>
+<br/>
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgoeasyonng&count_bg=%2379C83D&title_bg=%23555555&icon=googlechrome.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <a href="https://velog.io/@goeasyonng">
