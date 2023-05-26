@@ -70,12 +70,12 @@
 <br/>
 <br/>
   
-![Song's GitHub stats](https://github-readme-stats.vercel.app/api?username=goeasyonng&count_private=true&custom_title=Song's&nbsp;github&nbsp;&bg_color=F7CAC9&title_color=fff&text_color=fff)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goeasyonng&layout=compact&custom_title=My&nbsp;Language&nbsp;&bg_color=F7CAC9&title_color=fff&text_color=fff&height=30) 
+![Song's GitHub stats](https://github-readme-stats.vercel.app/api?username=goeasyonng&count_private=true&custom_title=Song's&nbsp;github&nbsp;&bg_color=B9CEAC&title_color=fff&text_color=fff)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goeasyonng&layout=compact&custom_title=My&nbsp;Language&nbsp;&bg_color=B9CEAC&title_color=fff&text_color=fff&height=30) 
 
   
  
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=B8DAF2&height=200&section=footer) 
+<!-- ![Footer](https://capsule-render.vercel.app/api?type=waving&color=B8DAF2&height=200&section=footer)  -->
  
  </div>
  
