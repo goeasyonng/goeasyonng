@@ -4,15 +4,13 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=270&text=HI&fontAlign=50&fontAlignY=32&color=B8DAF2&desc=be&nbsp;generous&nbsp;with&nbsp;everything)
 
 
-<div align="left">'go easy on NG' this is my Anagram<div>
-  <br/>
-<div>Go easy on: be generous with.<div>
-  <br/>
-<div>'NG': After the test, the filming or recording in the process is not good, so the filming is done again. an abbreviation for no good.<div>
-  <br/>
-<div>
-This phrase is my anagram and creed.
-As I entered the path of development, I experienced many errors and failures, but I was generous to bad things like my creed, sought various ways, and experienced success. With a consistent mind, I will not dwell on failure, but rather become a growing and successful developer who turns it into a good opportunity.<div>
+> <div align="left">'go easy on NG' this is my Anagram <div> 
+> <div><br/></div>
+> <div align="left">'Go easy on': be generous with.<div>
+> <div><br/></div>
+><div lign="left">'NG': After the test, the filming or recording in the process is not good, so the filming is done again. an abbreviation for no good.<div>
+> <div><br/></div>
+> <div lign="left"> This phrase is my anagram and creed.As I entered the path of development, I experienced many errors and failures, but I was generous to bad things like my creed, sought various ways, and experienced success. With a consistent mind, I will not dwell on failure, but rather become a growing and successful developer who turns it into a good opportunity.<div>
   
 <br/>
 <br/>
