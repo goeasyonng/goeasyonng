@@ -3,7 +3,8 @@
   
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=270&text=HI&fontAlign=50&fontAlignY=32&color=B8DAF2&desc=be&nbsp;generous&nbsp;with&nbsp;everything)
 
-<div>'go easy on NG' this is my Anagram<div>
+
+<div align="left">'go easy on NG' this is my Anagram<div>
   <br/>
 <div>Go easy on: be generous with.<div>
   <br/>
@@ -15,6 +16,9 @@ As I entered the path of development, I experienced many errors and failures, bu
   
 <br/>
 <br/>
+  
+<div align="center">
+  
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgoeasyonng&count_bg=%2379C83D&title_bg=%23555555&icon=googlechrome.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <a href="https://velog.io/@goeasyonng">
