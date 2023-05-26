@@ -1,7 +1,7 @@
 
 <div align="center">
   
-![waving](https://capsule-render.vercel.app/api?type=waving&height=270&text=HELLO&fontAlign=50&fontAlignY=32&color=B8DAF2&desc=I'm&nbsp;goeasyonng)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=270&text=go&nbsp;easy&nbsp;on&nbsp;ng&fontAlign=50&fontAlignY=32&color=B8DAF2&desc=be&nbsp;generous &nbsp;with&nbsp;everything)
 
 <div>'go easy on NG' this is my Anagram<div>
   <br/>
