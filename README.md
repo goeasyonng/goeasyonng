@@ -1,7 +1,7 @@
 
 <div align="center">
   
-<!-- ![waving](https://capsule-render.vercel.app/api?type=waving&height=270&text=HI&fontAlign=50&fontAlignY=32&color=B8DAF2&desc=be&nbsp;generous&nbsp;with&nbsp;everything) -->
+<!-- ![waving](https://capsule-render.vercel.app/api?type=waving&height=270&text=HI&fontAlign=50&fontAlignY=32&color=B8DAF2&desc=be&nbsp;generㅐus&nbsp;with&nbsp;everything) -->
 
   # <div>Be generus with everything <br><br></div>
 
