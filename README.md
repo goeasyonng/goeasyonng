@@ -17,7 +17,7 @@
 
 <div align="center">
   
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=goeasyonng&count_private=true&bg_color=B9CEAC&title_color=fff&text_color=black"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=goeasyonng&count_private=true&bg_color=DBEDFF&title_color=666666&text_color=black"/>
 
   ### 🆃🅾🅾🅻🆂
 
@@ -43,7 +43,7 @@
 </br>
 <div align="center">
   
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goeasyonng&layout=compact&custom&bg_color=B9CEAC&title_color=fff&text_color=black"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goeasyonng&layout=compact&custom&bg_color=DBEDFF&title_color=666666&text_color=black"/>
 
   <br/>
     
